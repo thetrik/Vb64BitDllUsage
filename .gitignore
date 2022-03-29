@@ -1,0 +1,7 @@
+*.vbw
+*.pdb
+*.exp
+*.lib
+dll/*
+!dll/main.c
+!dll/dll.dll
